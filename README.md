@@ -7,4 +7,5 @@ This audiovisual installation investigates Wenming (文明), which translates to
 ## Folder contents
 This web scraping script is part of my senior capstone project for Spring 2024. Utlizes Chrom webdriver and selenium
 
-## 
+## Google drive with all training data and outputs 
+https://drive.google.com/drive/folders/1vqOKjvQ7XEgTNNJiRiCHehgGOfoWYm14?usp=sharing 
